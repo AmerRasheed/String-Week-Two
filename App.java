@@ -12,7 +12,7 @@ public class App
     public static void main( String[] args )
     {
        /*Working with String Exercise by Amer Rasheed Week 2*/
-        /*FIRST SEVEN QUESTIONS SOLVED*/
+        /*Full String Exercise QUESTIONS SOLVED*/
 //hat is the length of the String: "Java" ?
         String String1="JAVA";
         System.out.println(String1);
